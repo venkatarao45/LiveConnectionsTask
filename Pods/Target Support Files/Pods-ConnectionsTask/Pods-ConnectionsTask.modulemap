@@ -1,0 +1,6 @@
+framework module Pods_ConnectionsTask {
+  umbrella header "Pods-ConnectionsTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

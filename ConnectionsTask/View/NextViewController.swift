@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  NextViewController.swift
 //  ConnectionsTask
 //
 //  Created by Venkatarao Ponnapalli  on 20/02/21.
@@ -8,13 +8,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class NextViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
+    
 
 
 }
-
